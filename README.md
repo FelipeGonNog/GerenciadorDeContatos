@@ -28,7 +28,6 @@ Este projeto foi desenvolvido para explorar as capacidades de interface do Andro
     * `Toast` para notificações rápidas
 
 ---
-
 ## 📸 Demonstração Lógica
 
 O app segue o fluxo de captura de eventos de clique para disparar menus específicos:
